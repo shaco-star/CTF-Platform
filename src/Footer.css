@@ -1,0 +1,15 @@
+.footer {
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: var(--gray-70);
+    background-color: var(--gray-11);
+    height: 300px;
+
+}
+
+.footer .navbar{
+grid-template-columns: 1fr 1fr 1fr;
+background-color: var(--gray-10);
+margin-top: 100px;
+}
+

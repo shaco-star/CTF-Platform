@@ -1,0 +1,46 @@
+:root {
+  --gray-10: #191919;
+  --gray-11: #1c1c1c;
+  --gray-15: #262626;
+  --gray-20: #333333;
+  --gray-30: #4C4C4D;
+  --gray-35: #59595A;
+  --gray-40: #656567;
+  --gray-60: #98989A;
+  --gray-70: #B3B3B3;
+  --gray-75: #BFBFBF;
+
+  --white-90: #E4E4E7;
+  --white-95: #F1F1F3;
+  --white-97: #F7F7F8;
+  --white-99: #FCFCFD;
+
+  --red-60: #a70000;
+  --red-65: #ff0000;
+  --red-70: #ff5252;
+  --red-80: #ff7b7b;
+  --red-90: #ffbaba;
+}
+
+.flex {
+  display: flex;
+}
+
+
+.grid {
+  display: grid;
+}
+
+
+body {
+  margin: 0;
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  background-color: #1E1E1E;
+  color: white;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
